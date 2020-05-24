@@ -1,0 +1,15 @@
+ <table cellpadding="0" cellspacing="0" class="tb1 w100p">
+ <tr>
+    <td class="td1 w16p h25 ba1 tac vam bt0">6:00 PM</td>
+        <td class="td1 w12p h25 tac vam bt0"></td>
+        <td class="td1 w12p h25 tac vam bt0"></td>
+        <td class="td1 w12p h25 tac vam bt0"></td>
+        <td class="td1 w12p h25 tac vam bt0"></td>
+        <td class="td1 w12p h25 tac vam bt0"></td>
+        <td class="td1 w12p h25 tac vam bt0"></td>
+    <td class="td1 w12p h25 tac vam bt0 bc11"></td>
+</tr>
+ 
+ 
+ 
+ </table>
